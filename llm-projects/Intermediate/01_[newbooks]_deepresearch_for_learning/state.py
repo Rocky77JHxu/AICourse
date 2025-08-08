@@ -29,4 +29,3 @@ class AcademicState(TypedDict):
     calendar: Annotated[Dict, dict_reducer]                 # 日程表
     tasks: Annotated[Dict, dict_reducer]                    # 待办清单
     results: Annotated[Dict[str, Any], dict_reducer]        # 最终输出
-    
