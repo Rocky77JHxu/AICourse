@@ -133,4 +133,3 @@ class DataManager:
                 continue
         
         return active_tasks
-

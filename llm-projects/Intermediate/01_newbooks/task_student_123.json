@@ -1,0 +1,140 @@
+{
+  "tasks": [
+    {
+      "id": "task_001",
+      "title": "完成数据结构作业 - 二叉搜索树实现",
+      "description": "实现二叉搜索树的插入、删除、查找操作，要求时间复杂度分析",
+      "course": "CS301",
+      "status": "needsAction",
+      "priority": "高",
+      "due": "2025-08-14T23:59:00+08:00",
+      "estimated_hours": 4,
+      "tags": ["编程", "算法", "作业"],
+      "difficulty": "困难",
+      "progress": 30
+    },
+    {
+      "id": "task_002",
+      "title": "准备算法期中考试",
+      "description": "复习动态规划、图算法、贪心算法，完成练习题",
+      "course": "CS301", 
+      "status": "needsAction",
+      "priority": "高",
+      "due": "2025-08-15T09:00:00+08:00",
+      "estimated_hours": 15,
+      "tags": ["复习", "考试", "算法"],
+      "difficulty": "困难",
+      "progress": 60,
+      "subtasks": [
+        "复习动态规划经典题目",
+        "练习图的DFS和BFS",
+        "总结贪心算法模板",
+        "做历年真题"
+      ]
+    },
+    {
+      "id": "task_003",
+      "title": "软件工程项目需求分析报告",
+      "description": "完成团队项目的需求分析文档，包括用户故事和用例图",
+      "course": "CS350",
+      "status": "needsAction", 
+      "priority": "中",
+      "due": "2025-08-18T23:59:00+08:00",
+      "estimated_hours": 6,
+      "tags": ["项目", "文档", "团队"],
+      "difficulty": "中等",
+      "progress": 20
+    },
+    {
+      "id": "task_004",
+      "title": "机器学习项目 - 数据预处理",
+      "description": "清洗和预处理房价预测项目的数据集",
+      "course": "个人项目",
+      "status": "needsAction",
+      "priority": "中",
+      "due": "2025-08-16T18:00:00+08:00", 
+      "estimated_hours": 3,
+      "tags": ["机器学习", "数据处理", "Python"],
+      "difficulty": "中等",
+      "progress": 10
+    },
+    {
+      "id": "task_005",
+      "title": "离散数学作业 - 图论证明题",
+      "description": "完成第7章图论相关的证明题，重点是连通性和最短路径",
+      "course": "MATH202",
+      "status": "needsAction",
+      "priority": "中",
+      "due": "2025-08-17T23:59:00+08:00",
+      "estimated_hours": 5,
+      "tags": ["数学", "证明", "图论"],
+      "difficulty": "困难",
+      "progress": 0
+    },
+    {
+      "id": "task_006", 
+      "title": "数据库实验报告",
+      "description": "完成SQL高级查询实验的实验报告和代码提交",
+      "course": "CS320",
+      "status": "needsAction",
+      "priority": "中",
+      "due": "2025-08-19T23:59:00+08:00",
+      "estimated_hours": 2,
+      "tags": ["数据库", "SQL", "实验"],
+      "difficulty": "简单",
+      "progress": 70
+    },
+    {
+      "id": "task_007",
+      "title": "ACM竞赛准备 - 动态规划专题",
+      "description": "完成动态规划专题的50道练习题，准备下月比赛",
+      "course": "竞赛",
+      "status": "needsAction",
+      "priority": "高",
+      "due": "2025-08-25T23:59:00+08:00",
+      "estimated_hours": 20,
+      "tags": ["竞赛", "算法", "动态规划"],
+      "difficulty": "困难", 
+      "progress": 25
+    },
+    {
+      "id": "task_008",
+      "title": "技术博客撰写 - 算法学习心得",
+      "description": "写一篇关于学习算法的心得体会，分享给学弟学妹",
+      "course": "个人发展",
+      "status": "needsAction",
+      "priority": "低",
+      "due": "2025-08-22T23:59:00+08:00",
+      "estimated_hours": 3,
+      "tags": ["写作", "分享", "算法"],
+      "difficulty": "中等",
+      "progress": 0
+    },
+    {
+      "id": "task_009",
+      "title": "开源项目贡献 - 修复Bug",
+      "description": "为关注的开源项目修复一个标记为'good first issue'的bug",
+      "course": "个人发展",
+      "status": "needsAction",
+      "priority": "低",
+      "due": "2025-08-30T23:59:00+08:00",
+      "estimated_hours": 4,
+      "tags": ["开源", "GitHub", "编程"],
+      "difficulty": "中等", 
+      "progress": 5
+    },
+    {
+      "id": "task_010",
+      "title": "已完成：上周算法作业",
+      "description": "完成了链表相关的编程作业",
+      "course": "CS301",
+      "status": "completed",
+      "priority": "高", 
+      "due": "2025-08-10T23:59:00+08:00",
+      "estimated_hours": 3,
+      "tags": ["编程", "链表", "作业"],
+      "difficulty": "中等",
+      "progress": 100
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "events": [
+    {
+      "id": "event_001",
+      "summary": "数据结构与算法 - 期中考试",
+      "description": "CS301 期中考试，重点：二叉树、图算法、动态规划",
+      "start": {
+        "dateTime": "2025-08-15T09:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2025-08-15T11:00:00+08:00"
+      },
+      "location": "教学楼A301",
+      "category": "考试",
+      "priority": "高"
+    },
+    {
+      "id": "event_002", 
+      "summary": "软件工程课程",
+      "description": "敏捷开发方法论讲座",
+      "start": {
+        "dateTime": "2025-08-13T14:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2025-08-13T16:00:00+08:00"
+      },
+      "location": "教学楼B205",
+      "category": "课程",
+      "priority": "中"
+    },
+    {
+      "id": "event_003",
+      "summary": "足球训练",
+      "description": "校队例行训练",
+      "start": {
+        "dateTime": "2025-08-14T18:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2025-08-14T20:00:00+08:00"
+      },
+      "location": "体育场",
+      "category": "体育",
+      "priority": "中"
+    },
+    {
+      "id": "event_004",
+      "summary": "机器学习项目小组会议",
+      "description": "讨论项目进度和下周任务分配",
+      "start": {
+        "dateTime": "2025-08-16T15:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2025-08-16T17:00:00+08:00"
+      },
+      "location": "图书馆研讨室C",
+      "category": "项目",
+      "priority": "高"
+    },
+    {
+      "id": "event_005",
+      "summary": "离散数学习题课",
+      "description": "复习数学归纳法和图论基础",
+      "start": {
+        "dateTime": "2025-08-17T10:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2025-08-17T12:00:00+08:00"
+      },
+      "location": "教学楼D102",
+      "category": "习题课",
+      "priority": "中"
+    },
+    {
+      "id": "event_006",
+      "summary": "数据库系统实验",
+      "description": "SQL高级查询和存储过程练习",
+      "start": {
+        "dateTime": "2025-08-18T14:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2025-08-18T17:00:00+08:00"
+      },
+      "location": "计算机实验室",
+      "category": "实验",
+      "priority": "中"
+    },
+    {
+      "id": "event_007",
+      "summary": "ACM竞赛集训",
+      "description": "算法竞赛训练：动态规划专题",
+      "start": {
+        "dateTime": "2025-08-19T19:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2025-08-19T21:30:00+08:00"
+      },
+      "location": "机房A",
+      "category": "竞赛",
+      "priority": "高"
+    },
+    {
+      "id": "event_008",
+      "summary": "计算机协会会议",
+      "description": "讨论下月技术讲座安排",
+      "start": {
+        "dateTime": "2025-08-20T16:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2025-08-20T17:30:00+08:00"
+      },
+      "location": "学生活动中心",
+      "category": "社团",
+      "priority": "低"
+    }
+  ]
+}

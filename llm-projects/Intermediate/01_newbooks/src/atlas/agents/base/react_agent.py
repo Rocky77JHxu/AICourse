@@ -1,6 +1,6 @@
 from datetime import datetime, timezone
 from typing import Dict, List
-from state import AcademicState
+from ...core.state import AcademicState
 
 
 class ReActAgent:
@@ -14,7 +14,6 @@ class ReActAgent:
     - 行动执行框架
     """
 
-    # TODO: 实现 ReActAgent
     def __init__(self, llm):
         """
         初始化 ReActAgent
@@ -26,7 +25,7 @@ class ReActAgent:
         self.few_shot_examples = []
         self.tools = {
             "search_calendar": self.search_calendar,            # 日程搜索
-            "analyze_tasks": self.analyze_tasks,                  # 任务分析
+            "analyze_tasks": self.analyze_tasks,                # 任务分析
             "check_learning_style": self.check_learning_style,   # 学习风格
             "check_performance": self.check_performance          # 学习成绩
         }

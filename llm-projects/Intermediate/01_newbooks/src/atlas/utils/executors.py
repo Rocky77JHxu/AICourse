@@ -1,4 +1,9 @@
 import asyncio
+from typing import Dict
+from ..core.state import AcademicState
+from ..agents.academic.planner_agent import PlannerAgent
+from ..agents.academic.note_writer_agent import NoteWriterAgent
+from ..agents.academic.advisor_agent import AdvisorAgent
 
 
 class AgentExecutor:
@@ -34,6 +39,9 @@ class AgentExecutor:
 
         Args:
             state (AcademicState): 当前状态（包含分析结果）
+
+        Returns:
+            Dict: 所有 Agents 执行的合并结果
 
         Implementation Details:
         ----------------------

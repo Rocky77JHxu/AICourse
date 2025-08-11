@@ -1,0 +1,96 @@
+{
+  "profiles": [
+    {
+      "id": "student_123",
+      "name": "张三",
+      "email": "zhang.san@university.edu",
+      "year": "大三",
+      "major": "计算机科学与技术",
+      "gpa": 3.7,
+      "learning_preferences": {
+        "learning_style": {
+          "primary": "视觉型学习者",
+          "secondary": "动手实践型",
+          "preferences": [
+            "图表和思维导图",
+            "代码示例和实际项目",
+            "分步骤的指导",
+            "实时反馈"
+          ]
+        },
+        "study_habits": {
+          "best_time": "早晨 8:00-11:00",
+          "concentration_span": "45分钟",
+          "break_frequency": "每45分钟休息10分钟",
+          "environment": "安静的图书馆或咖啡厅"
+        },
+        "challenges": [
+          "注意力缺陷多动症(ADHD)",
+          "考试焦虑",
+          "时间管理困难",
+          "多任务处理压力"
+        ],
+        "motivators": [
+          "短期可见成果",
+          "同伴竞争",
+          "实际应用价值",
+          "奖励机制"
+        ]
+      },
+      "academic_info": {
+        "current_courses": [
+          {
+            "code": "CS301",
+            "name": "数据结构与算法",
+            "credits": 4,
+            "difficulty": "困难",
+            "current_grade": "B+"
+          },
+          {
+            "code": "CS350",
+            "name": "软件工程",
+            "credits": 3,
+            "difficulty": "中等",
+            "current_grade": "A-"
+          },
+          {
+            "code": "MATH202",
+            "name": "离散数学",
+            "credits": 3,
+            "difficulty": "困难",
+            "current_grade": "B"
+          },
+          {
+            "code": "CS320",
+            "name": "数据库系统",
+            "credits": 3,
+            "difficulty": "中等",
+            "current_grade": "A"
+          }
+        ],
+        "weak_subjects": ["算法复杂度分析", "数学证明"],
+        "strong_subjects": ["编程实现", "系统设计", "项目管理"]
+      },
+      "personal_info": {
+        "interests": ["机器学习", "游戏开发", "开源项目"],
+        "extracurricular": [
+          "计算机协会副主席",
+          "足球队成员",
+          "志愿者活动"
+        ],
+        "goals": {
+          "short_term": [
+            "提高算法课程成绩到A",
+            "完成机器学习项目",
+            "参加ACM竞赛"
+          ],
+          "long_term": [
+            "毕业后进入知名科技公司",
+            "继续深造读研究生",
+            "成为全栈开发工程师"
+          ]
+        }
+      }
+    }
+  ]
+}
